@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^=5dq0twycx4t!f6d1vv^=0*a@a8wr3@*bx6xl(wmpy5dq7#&y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["13.211.124.188"]
+ALLOWED_HOSTS = ["galsan.ilearn.mn", "13.211.124.188"]
 
 
 # Application definition
